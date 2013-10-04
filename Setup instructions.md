@@ -3,7 +3,7 @@ Date: 2013-10-03
 
 # How to get GitHub and Anaconda working (on Mac OS  X 10.7+) so you can do your homework
 
-This guide will lead you through the setup process step by step. the GitHub for Mac app only works with Mac OS X Lion or newer (10.7+). If you're using Windows, Linux, or an older version of Mac OS X, you'll need to use a [different client](http://git-scm.com/downloads/guis) or the command line tool, but the general steps remain the same. 
+This guide will lead you through the setup process step by step. The GitHub for Mac app only works with Mac OS X Lion or newer (10.7+). If you're using Windows, Linux, or an older version of Mac OS X, you'll need to use a [different client](http://git-scm.com/downloads/guis) or the command line tool, but the general steps remain the same. 
 
 ## Github Part 1: Cloning the class repository
 
