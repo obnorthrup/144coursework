@@ -1,9 +1,9 @@
 Tags: #ling #x44  
 Date: 2013-10-04
 
-# Do you like how we format text on GitHub? Use Mou.
+# Do you like how we format text on GitHub? Use Markdown.
 
-Many of you are familiar with markup languages like HTML and LaTeX, but as you know, it's not very readable as plain text. [Markdown](http://daringfireball.net/projects/markdown/) is another one of these markup languages, but when you use it, you'll produce plain text documents that you can read easily whether they get typeset with their fancy formatting or not. Scroll to the bottom of this page and look at the raw source to see what I mean. Interested? After reading a [short tutorial like this one](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/), you'll be a pro.
+Many of you are familiar with markup languages like HTML and LaTeX, but as you know, it's not very readable as plain text. [Markdown](http://daringfireball.net/projects/markdown/) is another one of these markup languages, but when you use it, you'll produce plain text documents that you can read easily whether they get typeset with their fancy formatting or not. Look at the [raw source](https://raw.github.com/obnorthrup/144coursework/master/Using%20Markdown.md) to see what I mean. Interested? After reading a [short tutorial like this one](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/), you'll be a pro.
 
 If you take class notes on your computer, you might consider taking them in Markdown. (I do.) You can write Markdown in any plain text editor, but there are also tons of good Markdown clients that show you both what you're writing in plain text and the styled document at the same time (without refreshing like HTML or compiling like LaTeX, if you use those).
 
