@@ -10,6 +10,10 @@ Watch this repo for class tips, and [ask me questions](mailto:northrup@ucsc.edu)
 
 ## Log
 
+##### 2013-10-08
+
+Added the material from today's section to the 'sections' folder above. There's a filled version and a "worksheet" version with only the instructions. There's also an IPython notebook file of each, and a plain .py file.
+
 ##### 2013-10-04
 
 Added a quick guide for [using Markdown](Using Markdown.md) to take class notes. (By the way, I'm not really going to put my solutions in that homework file up there.)
