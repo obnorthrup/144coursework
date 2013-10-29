@@ -2,9 +2,9 @@
 
 No IPython Notebook today! Instead, load up [Debuggex](https://www.debuggex.com/), switch it to Python mode, and turn on the verbose flag. You can find this document in my repo at [http://github.com/obnorthrup/144coursework](http://github.com/obnorthrup/144coursework).
 
-**Note:** There's no 'complete' version of this week's notes, so make sure you're saving your responses and writing comments as we go.
-
 ![RegEx](http://claylevering.com/wp-content/uploads/2012/02/fts-regex-front.jpeg)
+
+**Note:** There's no 'complete' version of this week's notes, so make sure you're saving your responses and writing comments as we go.
 
 ### Parsing links in HTML
 
@@ -12,7 +12,7 @@ Here's an edited chunk of text from the Wikipedia entry on [Chomsky (1957)](http
 
     <p><i>Syntactic Structures</i> also initiated an interdisciplinary dialog between <a href="/wiki/Philosophy_of_language" title="Philosophy of language">philosophers of language</a> and linguists. American philosopher <a href="/wiki/John_Searle" title="John Searle">John Searle</a> wrote that "Chomsky's work is one of the most remarkable intellectual achievements of the present era, comparable in scope and coherence to the work of <a href="/wiki/Keynes" title="Keynes" class="mw-redirect">Keynes</a> or <a href="http://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf" title="Freud" class="mw-redirect">Freud</a>. It has done more than simply produce a revolution in linguistics; it has created a new discipline of generative grammar and is having a revolutionary effect on two other subjects, philosophy and psychology".<sup id="cite_ref-Searle_1972_3-2" class="reference"><a href="#cite_note-Searle_1972-3"><span>[</span>3<span>]</span></a></sup> Chomsky and Willard Van Orman Quine, a stridently anti-mentalistic philosopher of language and one of Chomsky's early influences, debated many times on the merit of Chomsky's linguistic theories. Most philosophers supported Chomsky's idea that natural languages are innate and syntactically rule-governed. In addition, they thought that there also exist rules in the human mind which bind meanings to utterances. The investigation of what these rules might be started a new era in <a href="/wiki/Philosophical_semantics" title="Philosophical semantics" class="mw-redirect">philosophical semantics</a>.</p>
 
-Link to this chunk in plain text, if the above is hard to grab: [Click here](chomsky.txt).
+Link to this chunk in plain text, if the above is hard to grab: [Click here](https://raw.github.com/obnorthrup/144coursework/master/section/Section%205/chomsky.txt).
 
 ### Disjunction
 
