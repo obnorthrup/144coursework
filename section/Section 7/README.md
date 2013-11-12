@@ -2,7 +2,7 @@
 
 No IPython Notebook today! Instead, download [Stanford Tregex 3.2.0](http://nlp.stanford.edu/downloads/tregex.shtml#Download) and the zipped Treebank corpus on the [course website](https://github.com/panand/ComputationalMethods). (We will do this together at the start today.) You can find this document in my repo at [http://github.com/obnorthrup/144coursework](http://github.com/obnorthrup/144coursework).
 
-![Treebank of Life](http://andreasquared.files.wordpress.com/2013/04/tree-of-life.jpg)
+![White Treebank of Gondor](gondor.jpg)
 
 **Note:** There's no 'complete' version of this week's notes, so make sure you're saving your responses and writing comments as we go.
 
