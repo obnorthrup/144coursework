@@ -20,8 +20,8 @@ No IPython Notebook today! Instead, download [Stanford Tregex 3.2.0](http://nlp.
 
 1. What are the 'tagged' files? The 'parsed' ones?
 2. How are things labelled? ([Key](http://bulba.sdsu.edu/jeanette/thesis/PennTags.html))
-3. What are the difficulties of building/maintaining a corpus like this? <!--- Ambiguity, Multi-word units, Discontinuous units, foreign expressions, symbols and numbers-->
-4. Given these, what are the most important features of an annotated corpus? <!--Consistency, Explicitness-->
+3. What are the difficulties of building/maintaining a corpus like this?
+4. Given these, what are the most important features of an annotated corpus?
 
 ## Step 3: Searching for structures
 
@@ -50,8 +50,8 @@ Use the `Pattern` field to say what you're looking for. Remember the syntax is d
 #### Problem B
 
 1. Find the phrase "good and services"
-2. Find all coordnations of two singular nouns. <!--/NP*/ <1 NNS <2 CC <3 NNS-->
-3. Find all conjunctions of two singlar nouns. <!-- /NP*/ <1 NNS <2 (CC < and) <3 NNS -->
+2. Find all coordnations of two singular nouns.
+3. Find all conjunctions of two singlar nouns.
 
 #### Problem C
 
